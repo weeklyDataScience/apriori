@@ -1,7 +1,7 @@
 # Apriori Algorithm Challenge
 Hey y'all!
 
-I originally kicked this off as an open challenge to analyze the datasets included here. (Read the original challenge [here](https://medium.com/weekly-data-science/retail-analysis-challenge-bcd2d1ca1e82))
+I originally kicked this off as an open challenge to analyze the datasets included here. ([Read the original challenge here](https://medium.com/weekly-data-science/retail-analysis-challenge-bcd2d1ca1e82))
 
 Since then, I've decided to make the challenge a bit more strucutred. I wrote a blog post on the intuition behind the Apriori Algorithm, where I challenged readers to implement the algorithm themselves.
 
