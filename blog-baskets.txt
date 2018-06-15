@@ -1,0 +1,4 @@
+eggs flour milk butter
+eggs flour milk sugar
+eggs flour milk butter
+bread butter jam cheese
