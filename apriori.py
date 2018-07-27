@@ -83,12 +83,6 @@ for line in lines:
                 triple = normalize_group(items[idx_1], items[idx_2], items[idx_3])
                 triple_counts[triple] += 1
 
-# third pass - find frequent triples
-# frequent_triples = set()
-# for key in triple_counts:
-#     if triple_counts[key] > THRESHOLD:
-#         frequent_triples.add(key)
-
 num_candidate_triples = len(triple_counts) # before filtering
 triple_counts = { k: v for k, v in triple_counts.items() if v > THRESHOLD } # filter for frequent triples
 print('There are {0} candidate triples, {1} of which are frequent'.format(num_candidate_triples, len(triple_counts)))
