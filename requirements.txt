@@ -15,7 +15,7 @@ plotly==2.7.0
 pyparsing==2.2.0
 python-dateutil==2.7.3
 pytz==2018.4
-requests==2.19.0
+requests==2.20.0
 six==1.11.0
 text-unidecode==1.2
 traitlets==4.3.2
