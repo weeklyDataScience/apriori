@@ -17,4 +17,4 @@ Personally, I think this kind of thing is more fun when you engage with others. 
 And if you want to engage with others with an interest in Data Science - as well as hear about these projects as I'm creating them, [join my mailing list](http://eepurl.com/dxKiQ9). I send out a weekly email with some Data Science related content each week. 
 
 **Send your findings to me at:**
-daniel *(dot)* isaza *(dot)* 93 *(at)* gmail
+dan [at] isaza [dot] dev
